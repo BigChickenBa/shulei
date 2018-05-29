@@ -1,0 +1,59 @@
+      *
+      {
+          margin: 0px;
+          padding: 0px;
+      }
+      html,body{
+          width:100%;
+          height:100%;
+      }
+
+.YDXT_index {
+          width:100%;
+          height:100%;
+          background: url(images/yjjt_mlbg.jpg) no-repeat;width:100%;height:auto;min-height:100%;
+          background-size: 100% 100%;
+          padding:0% 0% 0% 0%;
+      }
+
+	.title{width:100%; padding-top:10px;}
+	.title a{line-height:29px;width:45px; height:29px; float:left; display:block; background-image:url(images/backbg.png); background-repeat:no-repeat;text-decoration:none; text-align:center; margin-top:16px;margin-right:17px;}
+	.title a:hover{color:#F00;}
+	
+	
+	
+	.top_index
+	{
+	      width: 100%;
+          background: url(images/topbg.jpg) no-repeat 50% 50%;
+          background-size: 100% 100%;
+	    }
+
+	.main_con1{padding-left:10%;}
+	.main_con{padding-left:10%;}
+
+	/*h3{color:#485753; font-size:16px;border-bottom:1px solid #CCC; float:left;width:100%; text-align:center; line-height:50px;}*/
+	h4{color:#485753; float:left;width:100%;line-height:30px; }
+	dt a{color:#606f6b; width:100%; float:left;text-decoration:none; line-height:30px; border-bottom:1px dashed #CCC;}
+	dt a:hover{color:#F00;}
+	div a{width:65px; height:29px;display:block; background-repeat:no-repeat;color:#606f6b; text-decoration:none; text-align:left;}
+	
+	span{color:#606f6b; line-height:28px;width:100%; float:left; padding:0 0 0 0;}
+	/*font{color:#000;font-size:18px;font-weight:500;}*/
+	
+.biaotou{padding:0 0 0 0;line-height: 28px;height: 28px;float: left;width:100%;text-align:center;font-size:1.5em}
+
+.fj_biaoti{text-align: center;width: 100%;float: left;margin-bottom: 10px;}
+.fj_biaoti strong{font-size: 20px;}
+
+ .tupian{padding:0% 3% 0% 3%;width:90%}
+ .wenben{padding:0% 3% 0% 3%; text-indent:2em; font-size:1em;}
+ .tou{height:100%;width:100%;position:absolute;z-index:-1;}
+ .beijing{height:auto;width:100%}
+ .shanzi{padding-top:85px;}
+ .btn{background:url(images/btn.png);width:65px;height:46px;float:left;margin-left:12%;}
+ .jie{font-size:0.8em;color:White;text-align:-webkit-left;}
+ .tptxt{text-align:center;}
+ .wbbiaoti{text-align:center; font-size:1.3em; font-weight:600}
+ .fenge{width:100%;height:30px}
+ .wenben1{padding:0% 3% 0% 3%;text-indent:2em; font-size:1em;}
